@@ -5,4 +5,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Live Demo
 
-[Demo](https://github.com/facebook/create-react-app)
+[Demo](http://timmilesdw.github.io/react-redux-todo)
