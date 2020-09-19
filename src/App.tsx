@@ -10,7 +10,7 @@ const App = () => {
     return (
         <Layout style={{background: 'none'}}>
             <Navigation />
-            <Router>
+            <Router basepath='react-redux-todo'>
                 { routes.map(( Route, i ) => <Route.component key={i} path={Route.path} />) }
             </Router>
         </Layout>
