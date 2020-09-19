@@ -1,2 +1,2 @@
 // Include basepath here
-export const BASEPATH = '/react-redux-todo/'
+export const BASEPATH = '/react-redux-todo'
